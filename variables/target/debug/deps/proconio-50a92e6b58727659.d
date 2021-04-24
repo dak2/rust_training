@@ -1,0 +1,12 @@
+/Users/daichi/dev_space/training/rust/variables/target/debug/deps/proconio-50a92e6b58727659.rmeta: /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/lib.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/marker.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/read.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/mod.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/line.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/once.rs
+
+/Users/daichi/dev_space/training/rust/variables/target/debug/deps/libproconio-50a92e6b58727659.rlib: /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/lib.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/marker.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/read.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/mod.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/line.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/once.rs
+
+/Users/daichi/dev_space/training/rust/variables/target/debug/deps/proconio-50a92e6b58727659.d: /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/lib.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/marker.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/read.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/mod.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/line.rs /Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/once.rs
+
+/Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/lib.rs:
+/Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/marker.rs:
+/Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/read.rs:
+/Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/mod.rs:
+/Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/line.rs:
+/Users/daichi/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.8/src/source/once.rs:

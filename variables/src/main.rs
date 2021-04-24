@@ -1,6 +1,9 @@
+use proconio::input;
+
 fn main() {
-    let mut x = 5;
-    println!("The value of x is: {}", x);
-    x = 6;
-    println!("The value of x is: {}", x);
+    input! {
+        a: i32,
+        b: i32,
+    }
+    println!("{}", a + b);
 }
