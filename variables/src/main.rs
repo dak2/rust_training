@@ -1,5 +1,7 @@
 mod condition;
+mod block;
 
 fn main() {
-  condition::test()
+  condition::test();
+  block::test();
 }
