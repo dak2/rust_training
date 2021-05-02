@@ -4,7 +4,9 @@ mod array_address;
 mod assert;
 mod block;
 mod condition;
+mod forloop;
 mod pattern;
+mod ref_pattern;
 mod tuple;
 
 fn main() {
@@ -16,4 +18,6 @@ fn main() {
   array::test();
   address::test();
   array_address::test();
+  forloop::test();
+  ref_pattern::test();
 }
