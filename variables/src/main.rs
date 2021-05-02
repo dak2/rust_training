@@ -1,10 +1,11 @@
+mod address;
 mod array;
+mod array_address;
 mod assert;
 mod block;
 mod condition;
 mod pattern;
 mod tuple;
-mod address;
 
 fn main() {
   condition::test();
@@ -14,4 +15,5 @@ fn main() {
   pattern::test();
   array::test();
   address::test();
+  array_address::test();
 }
