@@ -1,0 +1,5 @@
+./variables/target/
+./variables/Cargo.lock
+
+./guessing_game/target/
+./guessing_game/Cargo.lock
