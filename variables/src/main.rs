@@ -7,6 +7,7 @@ mod condition;
 mod forloop;
 mod pattern;
 mod ref_pattern;
+mod sum;
 mod tuple;
 
 fn main() {
@@ -20,4 +21,5 @@ fn main() {
   array_address::test();
   forloop::test();
   ref_pattern::test();
+  sum::test();
 }
