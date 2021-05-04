@@ -16,8 +16,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "rprompt"
+version = "1.0.5"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b386f4748bdae2aefc96857f5fda07647f851d089420e577831e2a14b45230f8"
+
+[[package]]
 name = "variables"
 version = "0.1.0"
 dependencies = [
  "proconio",
+ "rprompt",
 ]

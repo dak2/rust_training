@@ -9,6 +9,7 @@ mod pattern;
 mod ref_pattern;
 mod sum;
 mod tuple;
+mod multiple_input;
 
 fn main() {
   condition::test();
@@ -22,4 +23,5 @@ fn main() {
   forloop::test();
   ref_pattern::test();
   sum::test();
+  multiple_input::test();
 }
