@@ -1,5 +1,5 @@
 pub fn test() {
-  let array = [30, 20, 30];
+  let array = [30, 20, 30, 40];
   let mut sum = 0;
   for num in &array {
     sum += num;
